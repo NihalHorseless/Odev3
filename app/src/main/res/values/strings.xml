@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="logo_content_description">Logo of our app</string>
+    <string name="account_button_content_description">Account Button</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_news">News</string>
+    <string name="nav_racing">Racing</string>
+    <string name="nav_drivers">Drivers</string>
+
+    <!-- News Items -->
+    <string name="news_item_1">Max Verstappen wins his 4th title in a tight season</string>
+    <string name="news_item_2">Hamilton finishes his last race with Mercedes in P4</string>
+    <string name="news_item_3">McLaren wins constructors title after 26 years</string>
+    <string name="news_item_4">Which Rookie will be the favorite of 2025 Season?</string>
+    <string name="news_item_5">Will Carlos Sainz revive the legacy of Williams?</string>
+
+    <!-- News Types -->
+    <string name="news_type_news">News</string>
+    <string name="news_type_poll">Poll</string>
+    <string name="news_type_opinion">Opinion</string>
+</resources>

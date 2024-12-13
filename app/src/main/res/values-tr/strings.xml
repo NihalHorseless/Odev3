@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Odev3</string>
+    <string name="logo_content_description">Logo of our app</string>
+    <string name="account_button_content_description">Hesap Butonu</string>
+
+    <!-- Bottom Navigation -->
+    <string name="nav_news">Haberler</string>
+    <string name="nav_racing">Yarışlar</string>
+    <string name="nav_drivers">Pilotlar</string>
+
+    <!-- News Items -->
+    <string name="news_item_1">Max Verstappen zorlu sezonun sonunda 4.kez şampiyon oldu</string>
+    <string name="news_item_2">Hamilton Mercedes ile son yarışında 4. oldu</string>
+    <string name="news_item_3">McLaren 26 yıl sonra şampiyon oldu</string>
+    <string name="news_item_4">Hangi Çaylak 2025 sezonuna damga vuracak?</string>
+    <string name="news_item_5">Carlos Sainz Williams takımını eski günlere döndürebilecek mi ?</string>
+
+    <!-- News Types -->
+    <string name="news_type_news">Haber</string>
+    <string name="news_type_poll">Anket</string>
+    <string name="news_type_opinion">Fikir</string>
+</resources>
